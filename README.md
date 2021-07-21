@@ -25,7 +25,4 @@ Sou estudante de desenvolvimento de web scrapers e ferramentas de automação em
 <img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white" />
 <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
 <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" /> </br>
-
-![Snake animation](https://github.com/hebertblois/hebertblois/blob/output/github-contribution-grid-snake.svg)
-
 </div>
