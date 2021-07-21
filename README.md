@@ -13,7 +13,7 @@
 
 </br>
 
-<div>
+
 💻 Certificates </br>
 - 🏆 [Intermediate Python](https://www.sololearn.com/certificates/course/en/938770/1158/landscape/png) </br>
 - 🏆 [Python for Beginners](https://www.sololearn.com/certificates/course/en/938770/1157/landscape/png) </br>
@@ -22,7 +22,7 @@
 - 🏆 [Certificate of Completion: CSS Fundamentals](https://www.sololearn.com/Certificate/1023-938770/pdf/) </br>
 - 🏆 [Certificate of Completion: HTML Fundamentals](https://www.sololearn.com/Certificate/1014-938770/pdf/) </br>
 - 🏆 [Certificate of Completion: JavaScript Tutorial](https://www.sololearn.com/Certificate/1024-938770/pdf/) </br>
-</div>
+
 
 <img src="https://octocat-generator-assets.githubusercontent.com/my-octocat-1626889003936.png" width=30%/>
 
