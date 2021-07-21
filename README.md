@@ -19,8 +19,13 @@ Sou estudante de desenvolvimento de web scrapers e ferramentas de automação em
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hebertblois&layout=compact&theme=merko)](https://github.com/hebertblois/git)
 
+<div style="display: inline_block"><br>
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
 <img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white" />
 <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
 <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" /> </br>
+
+![Snake animation](https://github.com/hebertblois/hebertblois/blob/output/github-contribution-grid-snake.svg)
+
+</div>
