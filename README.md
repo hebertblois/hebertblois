@@ -15,6 +15,7 @@
 
 
 💻 Certificates </br>
+- 🏆 [Python Data Structures](https://www.sololearn.com/certificates/course/en/938770/1159/landscape/png) </br>
 - 🏆 [Intermediate Python](https://www.sololearn.com/certificates/course/en/938770/1158/landscape/png) </br>
 - 🏆 [Python for Beginners](https://www.sololearn.com/certificates/course/en/938770/1157/landscape/png) </br>
 - 🏆 [Python 3 Tutorial Course](https://www.sololearn.com/Certificate/1073-938770/png) </br>
