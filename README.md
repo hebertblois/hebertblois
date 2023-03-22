@@ -29,6 +29,5 @@
 
 ![YOUR github stats](https://github-readme-stats.vercel.app/api?username=hebertblois&show_icons=true&theme=merko)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hebertblois&layout=compact&theme=merko)](https://github.com/hebertblois)
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hebertblois&layout=compact&theme=merko)](https://github.com/hebertblois/github-readme-stats)
 
